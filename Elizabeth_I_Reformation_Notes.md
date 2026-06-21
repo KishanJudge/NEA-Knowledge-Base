@@ -35,3 +35,17 @@
 - The source explicitly attributes the Reformation's ultimate, durable success to the sheer length of Elizabeth's reign rather than to the inherent strength or inevitability of Protestant ideas: 45 years allowed the settlement to "bed down" after the instability of Edward and Mary
 - The source frames this outcome as substantially contingent: had Elizabeth died of smallpox in 1562, religious civil war might easily have followed, meaning the Reformation's success depended significantly on luck and longevity rather than being a foregone ideological conclusion
 - The lasting legacy extended into England's policy in Ireland, importing Protestant landowners to oppress Catholic locals who resisted conversion, a legacy the source says "still lingers," with anti-Catholic sentiment remaining potent enough to help cause the Civil War a century later
+
+---
+
+## Historiographical Reassessment: Was Elizabethan "Anglicanism" a Myth?
+
+**Summary:** Historian Peter Marshall cautions strongly against the term "Anglicanism" as applied to Elizabeth's settlement, noting it is, strictly speaking, an anachronism: the Oxford English Dictionary's earliest citation of the word "Anglican" is from 1635, and the term did not come into widespread use until the nineteenth century. For a long time, the 1559 Elizabethan Settlement was popularly understood as establishing an "Anglican via media," a deliberate middle way between Catholicism and Protestantism. This interpretation was, in Marshall's words, dealt "twin death blows" in the early 1980s by historians Norman Jones and Winthrop Hudson, who demonstrated that Elizabeth and her advisors had in fact aimed in 1559 at an unambiguously Protestant settlement, and that the main opposition to it came not from Puritans pushing for more radical reform, but from Catholic resistance in the House of Lords. Diarmaid MacCulloch has labelled the popular idea of a moderate, deliberately balanced "Anglican" settlement the "myth of the English Reformation" — specifically, the myth that a clean, swift, complete national religious settlement under Elizabeth ever really happened in the straightforward way it is often popularly described.
+
+**Protestant Ideas**
+- The Jones/Hudson research is directly useful for the essay: it shows the 1559 settlement was never genuinely a moderate compromise between Catholic and Protestant positions, but a committed Protestant settlement from the outset, with opposition coming from Catholics rather than from Protestants wanting it to go further
+- This significantly strengthens any reading of the Elizabethan settlement as straightforwardly Protestant in intent, even though its outward ceremonial concessions (vestments, a more traditional-looking Eucharist) have sometimes been read as evidence of genuine doctrinal compromise
+
+**Power**
+- The popular "Anglican via media" narrative is, on this reading, itself a later ideological construction rather than an accurate description of Elizabeth's actual 1559 intentions, meaning historians must be cautious about retrofitting a later, more settled "Anglican" identity onto a settlement that was, at the time, a clear assertion of Protestant religious policy backed by royal and parliamentary power
+- This matters for the broader essay argument: it suggests that even the supposedly most "moderate" and consensus-seeking moment of the whole 1520-1603 period was, in fact, a decisive and one-sided use of state power to establish a specific religious settlement, not a genuine balancing of competing religious convictions
